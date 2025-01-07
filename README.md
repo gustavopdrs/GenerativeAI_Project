@@ -1,4 +1,5 @@
-Generative Adversarial Network (GAN) Implementation for MNIST
+Generative Adversarial Network (GAN) Implementation for MNIST. 
+
 This project demonstrates a PyTorch-based implementation of a Generative Adversarial Network (GAN) to generate realistic MNIST-like images. The code includes the creation and testing of generator and discriminator models, loss functions, and the training loop.
 
 Features
