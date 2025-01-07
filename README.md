@@ -45,7 +45,7 @@ PyTorch 1.7.0 or higher
 torchvision
 tqdm
 matplotlib
------------------------------------------------------------=
+--------------------------------------------------------------
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
